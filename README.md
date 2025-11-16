@@ -9,11 +9,8 @@
 ### ITI Programmer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Dec 2024
 
 #### Vchats - NodeJS, SocketIO | Sep 2021 - Dec 2021
-- Held full responsibility for the development life cycle of a scalable, real-time web chat application, collaborating with a small team to define, design, and implement core features.
-- Utilized Socket.io to facilitate instant communication and efficient data synchronization between users.
-- Implemented secure user authentication features, message database management, and a responsive web user interface.
-- This project sharpened my understanding of client-server architecture and performance optimization for data-intensive applications.
-
+- Developed a responsive and lightweight web interface using **HTML**, **CSS**, and **JavaScript** for ease of use.
+- Built, optimized, and integrated an internal real-time chat application using **Node.js** and **Socket.io**, ensuring _99%_ uptime and enhancing team communication efficiency across internal workflows.
 
 ### Data Annotator – Remotasks Scale AI, Remote | Jan 2020 - Dec 2021
 - **Semantic Segmentation**: Paint the pixels of environments in an image on project _Tsuki Lanes 2_

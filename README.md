@@ -8,6 +8,11 @@
 
 ### ITI Programmer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Dec 2024
 
+#### Antdonk - NodeJS, SocketIO, PWA | Jan 2022 - Dec 2022
+- Implemented and managed low-latency real-time data flow using **Socket.io** to deliver live courier status updates and tracking, improving operational efficiency and accuracy.
+- Developed a **Progressive Web App** utilizing **Service Workers** to deliver fast, lightweight, cross-device access, offline functionality, and push notifications, in a mobile device without app store installation.
+- Integrated **Google Maps API** on the backend to optimize routing and calculate estimated time of arrival (ETA) using real-time location and traffic data, improving distribution efficiency, location accuracy and accelerating delivery times.
+
 #### Vchats - NodeJS, SocketIO | Sep 2021 - Dec 2021
 - Developed a responsive and lightweight web interface using **HTML**, **CSS**, and **JavaScript** for ease of use.
 - Built, optimized, and integrated an internal real-time chat application using **Node.js** and **Socket.io**, ensuring _99%_ uptime and enhancing team communication efficiency across internal workflows.

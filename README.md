@@ -4,6 +4,19 @@
 
 ## Work Experiences
 
+### Data Annotator – Remotasks Scale AI, Remote | Jan 2020 - Dec 2021
+- **Semantic Segmentation**: Paint the pixels of environments in an image on project _Tsuki Lanes 2_
+- **2D Box Annotation**: Label objects in an image by drawing boxes on project _Lucid Box Trafficlightbulbs_
+- **Video Box Annotation & Video Polygon Annotation**: Track objects in a video by drawing boxes and polygons
+  - _Swan Longrange Videobox_
+  - _Zebra Polygonlinking Static Objects_
+- **Lidar Annotation & Lidar Segmentation**: Draw boxes/cuboid around points, label objects by drawing polygons, and paint the pixels and line in a 3D lidar scene
+  - _Llama Cuboid, Falcon Longrange, Falcon Extended Range, Zebra Lidar Static, Official Bee Lidar Group, Bee Missing Objects Ghosts Group, Bee Missing Objects Statics Group, Bee Missing Objects Vehicles Group, Bee 2 D Lidar Vehicles Group, Bee Missing Objects Pedestrians Group, Mammoth Lidar Group_
+
 ## Certificates
 
+- [Nama Sertifikasi] – [Tahun]
+
 ## Skills
+
+- [Skill 1]

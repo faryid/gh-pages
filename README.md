@@ -8,6 +8,11 @@
 
 ### ITI Programmer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Dec 2024
 
+#### Vicones - NodeJS, SocketIO, WebRTC | Sep 2022 - Mar 2023
+- Architected a full-stack **WebRTC**-based video conferencing system using **Node.js** and **Socket.io**, supporting _50–200 concurrent participants per session_ with stable P2P media streaming, virtual rooms, screen sharing, and participant controls.
+- Built a scalable **WebSocket** signaling infrastructure for **SDP/ICE** exchange and session orchestration, achieving _sub-300 ms signaling latency_ and maintaining _99% connection success rate_ for real-time session establishment.
+- Optimized distributed media workflows and throughput, reducing end-to-end media latency by _30–40%_ and improving connection stability for _100+ simultaneous active users_ across variable network conditions.
+
 #### Antdonk - NodeJS, SocketIO, PWA | Jan 2022 - Dec 2022
 - Implemented and managed low-latency real-time data flow using **Socket.io** to deliver live courier status updates and tracking, improving operational efficiency and accuracy.
 - Developed a **Progressive Web App** utilizing **Service Workers** to deliver fast, lightweight, cross-device access, offline functionality, and push notifications, in a mobile device without app store installation.

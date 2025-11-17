@@ -8,6 +8,11 @@
 
 ### ITI Programmer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Dec 2024
 
+#### Angleres - NodeJS, PHP, PWA, ReactNative | Dec 2022 - Dec 2023
+- Architected and implemented a comprehensive full-stack fishing e-commerce and community platform using a hybrid backend architecture (**Node.js** and **PHP**) and a cross-platform mobile application built with **React Native**.
+- Designed and integrated complex core features, including a fishing gear marketplace, booking systems for fishing locations and equipment rentals, fishing equipment repair, and live streaming capabilities.
+- Implemented a real-time location detection module to help users discover nearby fishing spots, processing real-time GPS data with location queries under _200 ms_.
+
 #### Vicones - NodeJS, SocketIO, WebRTC | Sep 2022 - Mar 2023
 - Architected a full-stack **WebRTC**-based video conferencing system using **Node.js** and **Socket.io**, supporting _50–200 concurrent participants per session_ with stable P2P media streaming, virtual rooms, screen sharing, and participant controls.
 - Built a scalable **WebSocket** signaling infrastructure for **SDP/ICE** exchange and session orchestration, achieving _sub-300 ms signaling latency_ and maintaining _99% connection success rate_ for real-time session establishment.

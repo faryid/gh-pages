@@ -11,7 +11,7 @@
 - Ensured smooth material flow, availability of putaway locations, and administrative accuracy despite a **200% increase in volume compared to normal operations**.
 - Prioritized inbound and outbound activities during peak hours to maintain efficient distribution flow and prevent bottlenecks at loading dock areas.
 
-### ITI Programmer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Sep 2024
+### Software Engineer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Sep 2024
 
 #### - Inventory Management System - Odoo Custom | Jul 2024 - Sep 2024
 - Developed a geolocation-enabled Inventory Management System on **Odoo**, improving inventory tracking accuracy by up to _60–70% across distributed locations_.

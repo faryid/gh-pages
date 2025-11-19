@@ -4,7 +4,7 @@
 
 ## Work Experiences
 
-### Warehouse Staff – PT Tira Cipta Logistik, Onsite | Oct 2024 - Sep 2025
+### Warehouse Admin Staff – PT Tira Cipta Logistik, Onsite | Oct 2024 - Sep 2025
 - Managed inbound operations of approximately **300 tons and 900 pallets per day** in a cold storage warehouse, maintaining **98% inventory record accuracy**.
 - Coordinated with customer PICs and Customer Care teams to ensure **100% of inbound goods were stored in compliance with cold storage temperature standards and SOPs**.
 - Handled festive peak operations by managing **75+ vehicles per day** for inbound and outbound activities leveraging **20 warehouse gates**, while consistently meeting operational SLA targets.

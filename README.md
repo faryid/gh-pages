@@ -13,17 +13,17 @@
 
 ### Software Engineer – PT Intelegensi Teknologi Internasional, Remote | Sep 2021 - Sep 2024
 
-#### - Inventory Management System - Odoo Custom | Jul 2024 - Sep 2024
-- Developed a geolocation-enabled Inventory Management System on **Odoo**, improving inventory tracking accuracy by up to _60–70% across distributed locations_.
-- Built custom **Odoo** plugins to automate inventory movement and validation, _reducing manual stock reconciliation time by 50%_.
+#### Inventory Management System - Odoo Custom | Jul 2024 - Sep 2024
+- Developed a geolocation-enabled Inventory Management System on Odoo, **improving inventory tracking accuracy by up to 60–70%** across distributed locations.
+- Built custom Odoo plugins to automate inventory movement and validation, **reducing manual stock reconciliation time by 50%**.
 
-#### - Human Resource Information System - Laravel, Tailwind, VueJS | Apr 2024 - Jul 2024
-- Digitized attendance, leave, and employee management workflows, _reducing manual HR processes by up to 40%_ and improving operational efficiency.
-- Collaborated with HR and management stakeholders to deliver _10+ production features_ within defined timelines, _increasing system adoption to 90%_ of HR users.
+#### Human Resource Information System - Laravel | Apr 2024 - Jul 2024
+- Digitized attendance, leave, and employee management workflows, **reducing manual HR processes by up to 40%** and improving operational efficiency.
+- Collaborated with HR and management stakeholders to **deliver 10+ production features** within defined timelines, **increasing system adoption to 90% of HR users**.
 
-#### - BI Approval System - Laravel, Tailwind | Jan 2024 - June 2024
-- Developed a secure **Laravel**-based approval system for Bank Indonesia, automating multi-level authorization workflows and reducing approval processing time by up to _50%_ while meeting strict banking security and compliance standards.
-- Implemented comprehensive audit logs and approval histories, enabling full traceability for internal reviews and regulatory audits with _100% approval accountability_.
+#### BI Approval System - Laravel, Tailwind, React | Jan 2024 - June 2024
+- Developed a secure Laravel-based approval system for **Bank Indonesia**, automating multi-level authorization workflows and **reducing approval processing time by up to 50%** while meeting strict banking security and compliance standards.
+- Implemented comprehensive audit logs and approval histories, **enabling full traceability** for internal reviews and **regulatory audits with 100% approval accountability**.
 
 #### Angleres - NodeJS, PHP, PWA, ReactNative | Dec 2022 - Dec 2023
 - Architected and implemented a comprehensive full-stack fishing e-commerce and community platform using a hybrid backend architecture (**Node.js** and **PHP**) and a cross-platform mobile application built with **React Native**.

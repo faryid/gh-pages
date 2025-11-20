@@ -25,24 +25,19 @@
 - Developed a secure Laravel-based approval system for **Bank Indonesia**, automating multi-level authorization workflows and **reducing approval processing time by up to 50%** while meeting strict banking security and compliance standards.
 - Implemented comprehensive audit logs and approval histories, **enabling full traceability** for internal reviews and **regulatory audits with 100% approval accountability**.
 
-#### Angleres - NodeJS, PHP, PWA, ReactNative | Dec 2022 - Dec 2023
-- Architected and implemented a comprehensive full-stack fishing e-commerce and community platform using a hybrid backend architecture (**Node.js** and **PHP**) and a cross-platform mobile application built with **React Native**.
+#### Angleres - NodeJS, PHP, WebRTC, React Native | Oct 2022 - Dec 2023
+- Architected and implemented a comprehensive full-stack fishing e-commerce and community platform using a hybrid backend architecture (**Node.js and PHP**) and a cross-platform mobile application built with **React Native**.
 - Designed and integrated complex core features, including a fishing gear marketplace, booking systems for fishing locations and equipment rentals, fishing equipment repair, and live streaming capabilities.
-- Implemented a real-time location detection module to help users discover nearby fishing spots, processing real-time GPS data with location queries under _200 ms_.
+- Implemented a real-time location detection module to help users discover nearby fishing spots, **processing real-time GPS data with location queries under 200 ms**.
+- Built a scalable WebRTC signaling infrastructure server for SDP/ICE exchange and session orchestration, **achieving sub-300 ms signaling latency** and **maintaining 99% connection success rate** for real-time session establishment.
+- Optimized distributed media workflows and throughput, **reducing end-to-end media latency by 30–40%** and **improving connection stability for 100+ simultaneous active users** across variable network conditions.
 
-#### Vicones - NodeJS, SocketIO, WebRTC | Sep 2022 - Mar 2023
-- Architected a full-stack **WebRTC**-based video conferencing system using **Node.js** and **Socket.io**, supporting _50–200 concurrent participants per session_ with stable P2P media streaming, virtual rooms, screen sharing, and participant controls.
-- Built a scalable **WebSocket** signaling infrastructure for **SDP/ICE** exchange and session orchestration, achieving _sub-300 ms signaling latency_ and maintaining _99% connection success rate_ for real-time session establishment.
-- Optimized distributed media workflows and throughput, reducing end-to-end media latency by _30–40%_ and improving connection stability for _100+ simultaneous active users_ across variable network conditions.
-
-#### Antdonk - NodeJS, SocketIO, PWA | Jan 2022 - Dec 2022
+#### Antdonk - NodeJS, SocketIO, PWA | Sep 2021 - Dec 2022
 - Implemented and managed low-latency real-time data flow using **Socket.io** to deliver live courier status updates and tracking, improving operational efficiency and accuracy.
-- Developed a **Progressive Web App** utilizing **Service Workers** to deliver fast, lightweight, cross-device access, offline functionality, and push notifications, in a mobile device without app store installation.
 - Integrated **Google Maps API** on the backend to optimize routing and calculate estimated time of arrival (ETA) using real-time location and traffic data, improving distribution efficiency, location accuracy and accelerating delivery times.
-
-#### Vchats - NodeJS, SocketIO | Sep 2021 - Dec 2021
+- Developed a **Progressive Web App** utilizing **Service Workers** to deliver fast, lightweight, cross-device access, offline functionality, and push notifications, in a mobile device without app store installation.
+- Built, optimized, and integrated an internal real-time chat application using **Node.js and Socket.io**, **ensuring 99% uptime** and enhancing team communication efficiency across internal workflows.
 - Developed a responsive and lightweight web interface using **HTML**, **CSS**, and **JavaScript** for ease of use.
-- Built, optimized, and integrated an internal real-time chat application using **Node.js** and **Socket.io**, ensuring _99%_ uptime and enhancing team communication efficiency across internal workflows.
 
 ### Data Annotator – Remotasks Scale AI, Remote | Jan 2020 - Dec 2021
 - **Semantic Segmentation**: Paint the pixels of environments in an image on project _Tsuki Lanes 2_

@@ -61,4 +61,12 @@
 
 ## Skills
 
-- [Skill 1]
+Bahasa Pemrograman: HTML/CSS/JS, Go, PHP, Java, Kotlin, Python, TypeScript
+
+Framework: Express.js, Hapi.js, Nest, React, WebRTC, PeerJS, Socket.io, Odoo, Flask, Django, Laravel, Bootstrap, Tailwind
+
+Database: MongoDB, Redis, SQLite, MySQL, PostgreSQL
+
+Tools: GCP, AWS, Git, GitHub, Docker, Jenkins
+
+Methodology: Agile, XP, SDLC, Scrum, Kanban, Test-Driven Development, Event-Driven Development, Object-Oriented Architecture

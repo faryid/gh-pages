@@ -50,14 +50,21 @@
 
 ## Certificates
 
-- [Belajar Back-end pemula dengan JavaScript](https://www.dicoding.com/certificates/ERZR5Q1WMPYV), Dicoding - Jul 2021
-- [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/RVZK42Y6NPD5), Dicoding - Jun 2021
-- [AWS Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGY0RYDXRL), Dicoding - Jun 2021
-- [JavaScript & jQuery - Certification Course for Beginners](https://www.udemy.com/certificate/UC-c7666757-db50-4ed1-9c7d-0c6055228344/), Udemy - Mar 2021
-- [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-5011825d-39e5-4758-aa6d-17f5b9c5dcff/), Udemy - Mar 2021
-- [SQL Course](https://progate.com/course_certificate/e5c12e7aqoyial), Progate – Feb 2021
-- [Python Course](https://progate.com/course_certificate/1132b4aaqlvjm3), Progate – Dec 2020
-- [Command Line Course](https://progate.com/course_certificate/e81583f1qm01p5), Progate – Dec 2020
+- [**Server Infrastructure Basics**](https://www.udemy.com/certificate/UC-66cf3961-16ef-4168-9e4d-4a2c60d0ccf2/), Udemy - Apr 2024
+- [**Google Workspace (G Suite) Ultimate Guide**](https://www.udemy.com/certificate/UC-c062b19d-6c0c-4dca-ad2d-555347154a86/), Udemy - Apr 2024
+- [**Complete Progressive Web App Bootcamp from Udemy**](https://www.udemy.com/certificate/UC-3cc06441-2d9c-43fd-914b-6bd8f130909c75/), Udemy - Jul 2022
+- [**React Native Expo for Multiplatform Mobile App Developments**](https://www.udemy.com/certificate/UC-29446d46-cafe-4370-ad39-aebbcb59764c/), Udemy - Jul 2022
+- [**Learn Basics of Web Design HTML CSS and Bootstrap**](https://www.udemy.com/certificate/UC-de5f7b0b-0b42-4ef9-9f72-34736e7aba8/), Udemy - Jun 2022
+- [**Install NGINX, PHP, MySQL, SSL & WordPress on Ubuntu 18.04**](https://www.udemy.com/certificate/UC-897da689-825-4bfb-a5e0-b0c93745£343/), Udemy - Jun 2022
+- [**Create an Image Upload Web App with Python and Django**](https://www.udemy.com/certificate/UC-6cfe2c9-9359-47f1-a375-86f0da8149f9/), Udemy - Mar 2022
+- [**Belajar Back-end pemula dengan JavaScript**](https://www.dicoding.com/certificates/ERZR5Q1WMPYV), Dicoding - Jul 2021
+- [**Belajar Dasar Pemrograman JavaScript**](https://www.dicoding.com/certificates/RVZK42Y6NPD5), Dicoding - Jun 2021
+- [**AWS Cloud Practitioner Essentials**](https://www.dicoding.com/certificates/4EXGY0RYDXRL), Dicoding - Jun 2021
+- [**JavaScript & jQuery - Certification Course for Beginners**](https://www.udemy.com/certificate/UC-c7666757-db50-4ed1-9c7d-0c6055228344/), Udemy - Mar 2021
+- [**HTML & CSS - Certification Course for Beginners**](https://www.udemy.com/certificate/UC-5011825d-39e5-4758-aa6d-17f5b9c5dcff/), Udemy - Mar 2021
+- [**SQL Course**](https://progate.com/course_certificate/e5c12e7aqoyial), Progate – Feb 2021
+- [**Python Course**](https://progate.com/course_certificate/1132b4aaqlvjm3), Progate – Dec 2020
+- [**Command Line Course**](https://progate.com/course_certificate/e81583f1qm01p5), Progate – Dec 2020
 
 ## Skills
 
